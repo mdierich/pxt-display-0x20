@@ -1,0 +1,3 @@
+{
+	"display.writeString": "Schreibt eine Zeichenfolge auf eine Zeile. Wenn die Zeichenfolge länder ist als 16 Zeichen, wird das Display mit der angegebenen Geschwindigkeit gescrollt"
+}

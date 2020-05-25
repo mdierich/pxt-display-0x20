@@ -1,0 +1,3 @@
+{
+	"display.writeString|block": "Schreibe | %str | auf Zeile | %row | und bewege die Zeichen mit | %speed | ms"
+}
