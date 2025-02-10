@@ -165,7 +165,7 @@ namespace display {
 }
 
 enum Command {
-    LCD_ADDRESS = 0x3E,
+    LCD_ADDRESS = 0x20,
     RGB_ADDRESS = 0x62,
 
     //Hintergrundfarben Adressen
